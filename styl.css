@@ -28,18 +28,18 @@
   background-color: #E8C84E;
   height: 50px;
   text-align: right;
-  margin: -10 -10 -10 -10;
+  padding: 10px;
 }
 li{
-  margin-top: -30;
+  padding-top: 30px;
   background-color: #FFAA00;
 }
 img{
-  margin-top: 50;
+  margin-top: 50px;
 }
 h3{
-  margin-top: 50;
+  margin-top: 50px;
 }
 form{
-  margin-bottom: 100;
+  margin-bottom: 100px;
 }
