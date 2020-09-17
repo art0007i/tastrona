@@ -1,1 +1,45 @@
-
+#banner{
+  background-color: #E8C84E;
+  height: 50px;
+  font-size: 130%;
+  text-align: center;
+}
+#info{
+  background-color: #FFB544;
+  height: 500px;
+  width: 40%;
+  font-size: 130%;
+  display: inline-block;
+}
+#form{
+  height: 500px;
+  width: 30%;
+  text-align: center;
+}
+#contact{
+  background-color: #FFB544;
+  height: 500px;
+  width: 30%;
+  font-size: 130%;
+  text-align: center;
+  display: inline-block;
+}
+#footer{
+  background-color: #E8C84E;
+  height: 50px;
+  text-align: right;
+  margin: -10 -10 -10 -10;
+}
+li{
+  margin-top: -30;
+  background-color: #FFAA00;
+}
+img{
+  margin-top: 50;
+}
+h3{
+  margin-top: 50;
+}
+form{
+  margin-bottom: 100;
+}
